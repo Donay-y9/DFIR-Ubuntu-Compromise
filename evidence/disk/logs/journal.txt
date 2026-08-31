@@ -1,0 +1,200 @@
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.61704324Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.617077348Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.617091873Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.617098906Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.617106221Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.617111962Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.617123649Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.617134023Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.617141951Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.6171473Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.717921527Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.717986605Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.718007848Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.718017979Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.718026155Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.718035455Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.718044081Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.718051815Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.718059307Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.718065015Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818506465Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818802182Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818820344Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818828323Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818836536Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818844164Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818850586Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818857199Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818865796Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:14 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.818875294Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.920362793Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.92058619Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.920607422Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.920613078Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.920617122Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.920620462Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.920624515Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.92062897Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.920639102Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:14.920643259Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022606918Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022643998Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022656134Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022666302Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022675111Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022683266Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022692144Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022698931Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022706205Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.022710872Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124150317Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124199495Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124216364Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124228473Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124238022Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124249488Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124260074Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124267977Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.124280264Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.12429085Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.224516314Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.224550676Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.224564548Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.224605982Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.2246191Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.224627543Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.224639187Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.22464627Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.224654291Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.224661681Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.325707525Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.32574594Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.325759048Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.32577111Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.325782098Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.32579005Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.325800732Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.325807824Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.32581548Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.325823928Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431865849Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431898847Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431905887Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431909239Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431912392Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431914812Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431917727Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431920457Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431923162Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.431927644Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.536654363Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.536946677Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.536976596Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.536987616Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.536995025Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.537003176Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.53701388Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.537020295Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.537027591Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.537033833Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.64152484Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.641559916Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.641572666Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.64158324Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.64159206Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.641599641Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.641609472Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.64161586Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.641621807Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.641631674Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.74311939Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.743167956Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.743183352Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.743204144Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.74321469Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.743224906Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.743233658Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.743241079Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.74325219Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.743259452Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843564357Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843589638Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843596506Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843599983Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843603376Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.8436065Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843609141Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843611578Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843614259Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:15 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.843616674Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.945119441Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.948108556Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.948124421Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.948131795Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.948135261Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.94813891Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.948141886Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.948144858Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.948147994Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:15.94815075Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149309065Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149349435Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149363607Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149375615Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149384912Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149392687Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149403067Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.14941018Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149416331Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.149425913Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250687826Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250722127Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250736281Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250751023Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250761427Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250767536Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250777989Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250785722Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.250792431Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.25080157Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351358656Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351385759Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351392658Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351396012Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351399413Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351402332Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351404987Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.35140793Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351410759Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.351413351Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478208925Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.4782551Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478264127Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478269978Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478275123Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478278407Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478281678Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478285262Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478288064Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.478290813Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.57907963Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579106656Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579113345Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579116623Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579122101Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579125349Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579128368Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579131155Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579133811Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.579136515Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681663088Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/distributor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681700343Z caller=mock.go:153 msg=Get key=collectors/distributor wait_index=3399
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681711943Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/pattern-ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681720148Z caller=mock.go:153 msg=Get key=collectors/pattern-ring wait_index=3400
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681730207Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/scheduler
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681739082Z caller=mock.go:153 msg=Get key=collectors/scheduler wait_index=3397
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681746472Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/ring
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681757758Z caller=mock.go:153 msg=Get key=collectors/ring wait_index=3401
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681767812Z caller=mock.go:189 msg="Get - deadline exceeded" key=collectors/compactor
+Aug 28 00:48:16 donay loki[1093]: level=debug ts=2026-08-28T00:48:16.681773838Z caller=mock.go:153 msg=Get key=collectors/compactor wait_index=3398

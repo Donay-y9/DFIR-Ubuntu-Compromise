@@ -1,0 +1,44 @@
+-rw-r--r-- 1 root root 1136 Nov  5  2025 /etc/crontab
+
+/etc/cron.d:
+total 16
+drwxr-xr-x   2 root root 4096 Apr 20 18:22 .
+drwxr-xr-x 119 root root 4096 Aug 28 00:30 ..
+-rw-r--r--   1 root root  102 Nov  5  2025 .placeholder
+-rw-r--r--   1 root root  188 Feb 13  2026 e2scrub_all
+
+/etc/cron.daily:
+total 32
+drwxr-xr-x   2 root root 4096 Aug 25 23:08 .
+drwxr-xr-x 119 root root 4096 Aug 28 00:30 ..
+-rw-r--r--   1 root root  102 Nov  5  2025 .placeholder
+-rwxr-xr-x   1 root root  376 Apr 13 11:51 apport
+-rwxr-xr-x   1 root root 1478 Apr  7 09:02 apt-compat
+-rwxr-xr-x   1 root root  123 Dec 16  2025 dpkg
+-rwxr-xr-x   1 root root  377 Dec  6  2025 logrotate
+-rwxr-xr-x   1 root root 1395 May  2  2025 man-db
+
+/etc/cron.hourly:
+total 12
+drwxr-xr-x   2 root root 4096 Apr 20 18:22 .
+drwxr-xr-x 119 root root 4096 Aug 28 00:30 ..
+-rw-r--r--   1 root root  102 Nov  5  2025 .placeholder
+
+/etc/cron.monthly:
+total 12
+drwxr-xr-x   2 root root 4096 Apr 20 18:22 .
+drwxr-xr-x 119 root root 4096 Aug 28 00:30 ..
+-rw-r--r--   1 root root  102 Nov  5  2025 .placeholder
+
+/etc/cron.weekly:
+total 16
+drwxr-xr-x   2 root root 4096 Apr 20 18:22 .
+drwxr-xr-x 119 root root 4096 Aug 28 00:30 ..
+-rw-r--r--   1 root root  102 Nov  5  2025 .placeholder
+-rwxr-xr-x   1 root root 1055 May  2  2025 man-db
+
+/etc/cron.yearly:
+total 12
+drwxr-xr-x   2 root root 4096 Apr 20 18:22 .
+drwxr-xr-x 119 root root 4096 Aug 28 00:30 ..
+-rw-r--r--   1 root root  102 Nov  5  2025 .placeholder
