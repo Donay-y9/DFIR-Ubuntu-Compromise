@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "Backdoor ejecutado - $(date)" >> /var/log/backdoor.log
