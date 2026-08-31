@@ -1,0 +1,9 @@
+sudo -i
+mkdir -p /root/.ssh
+ls pall
+ls -all
+echo "cat /etc/passwd" >> /root/.bash_history
+echo "cat /etc/shadow" >> /root/.bash_history
+echo "cat /etc/passwd" >> /root/.bash_history
+newgrp sudo
+echo "cat /etc/passwd" >> /root/.bash_history
