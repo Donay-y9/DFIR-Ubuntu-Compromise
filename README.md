@@ -1,47 +1,55 @@
-# DFIR - Investigación Forense de Servidor Ubuntu Comprometido
+# DFIR - Compromised Ubuntu Server Investigation
 
-## Descripción del Proyecto
+## Project Overview
 
-Laboratorio de Digital Forensics & Incident Response (DFIR) donde se simula el compromiso de un servidor Ubuntu y se realiza un análisis forense completo.
+This repository contains a complete Digital Forensics and Incident Response (DFIR) laboratory project. A controlled compromise was performed on an Ubuntu Server, evidence was collected, and a full forensic analysis was conducted.
 
-Este proyecto forma parte de mi portafolio de ciberseguridad y demuestra habilidades en:
+**Objective:** Demonstrate practical skills in Linux forensics, artifact analysis, and professional reporting.
 
-- Adquisición de evidencia
-- Análisis de logs y sistema de archivos
-- Identificación de persistencia
-- Documentación profesional de hallazgos
-- Mapeo a MITRE ATT&CK
+## Laboratory Environment
 
-## Escenario
+- **OS:** Ubuntu Server
+- **Existing stack:** Promtail + Loki + Grafana
+- **Security controls present:** UFW + Fail2Ban
+- **Type:** Controlled attack simulation + post-incident analysis
 
-- Sistema: Ubuntu Server
-- Stack de monitoreo existente: Promtail + Loki + Grafana
-- Controles previos: UFW + Fail2Ban
-- Tipo de incidente: Compromiso de servidor Linux (acceso inicial + persistencia)
+## Repository Structure
+DFIR-Ubuntu-Compromise/
+├── evidence/
+│   └── disk/
+│       ├── history/
+│       ├── logs/
+│       ├── other/
+│       ├── persistence/
+│       └── users/
+├── report/
+│   └── forensic_report.md
+└── README.md
+text## Key Findings
 
-## Metodología
+- Creation of privileged users (`attack` and `hiddenuser`)
+- Passwordless sudo configuration
+- Backdoor script planted in `/tmp`
+- Simulated data exfiltration file
+- Clear attacker commands in root bash history
+- Multiple persistence techniques attempted
 
-1. Adquisición de evidencia (archivos de sistema, logs, historial, etc.)
-2. Análisis de indicadores de compromiso (IOCs)
-3. Timeline de la intrusión
-4. Mapeo a MITRE ATT&CK
-5. Informe forense completo
+## Full Report
 
-## Estructura del Repositorio
+The complete forensic report is available here:  
+→ [**forensic_report.md**](./report/forensic_report.md)
 
-- `evidencia/` → Evidencia recolectada
-- `informe/` → Informe forense final
-- `screenshots/` → Capturas de pantalla del análisis
-- `volatility_output/` → Resultados de análisis de memoria (si aplica)
+## MITRE ATT&CK Coverage
 
-## Hallazgos Principales (Resumen)
+The investigation mapped techniques across:
+- Initial Access
+- Privilege Escalation
+- Persistence
+- Discovery
+- Collection
+- Command and Control
 
-- Creación de usuario con privilegios elevados
-- Persistencia mediante clave SSH
-- Backdoor en `/tmp`
-- Archivo con datos sensibles
-- Comandos sospechosos en historial de root
+## Author
 
-## Autor
-
-[Tu Nombre]
+**[Tu Nombre]**  
+Cybersecurity | DFIR | Blue Team
