@@ -11,6 +11,7 @@
 
 | Field                    | Details                                      |
 |--------------------------|----------------------------------------------|
+
 | Report Title             | Forensic Investigation of Compromised Ubuntu Server |
 | Case / Lab ID            | LAB-DFIR-2026-001                            |
 | Evidence Location        | `evidence/disk/`                             |
