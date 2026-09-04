@@ -116,8 +116,7 @@ Root command history (`history/bash_history_root.txt`) shows the following attac
 ## 7. MITRE ATT&CK Mapping
 
 | Tactic                  | Technique                          | ID          | Evidence                     |
-|-------------------------|------------------------------------|-------------|------------------------------|
-| Initial Access          | Valid Accounts                     | T1078       | User `attack`                |
+|-------------------------|------------------------------------|-------------|------------------------------|           |
 | Privilege Escalation    | Abuse Elevation Control Mechanism  | T1548.003   | sudoers.d/attack             |
 | Persistence             | Create Account                     | T1136       | hiddenuser                   |
 | Persistence             | Local Job Scheduling (attempted)   | T1053.003   | cron (not captured)          |
