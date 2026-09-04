@@ -49,7 +49,4 @@ The investigation mapped techniques across:
 - Collection
 - Command and Control
 
-## Author
 
-**[Tu Nombre]**  
-Cybersecurity | DFIR | Blue Team
