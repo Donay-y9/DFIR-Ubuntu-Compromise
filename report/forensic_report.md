@@ -3,7 +3,6 @@
 
 **Project:** DFIR-Ubuntu-Compromise  
 **Type:** Portfolio / Controlled Lab Exercise  
-**Analyst:** [Tu Nombre]  
 **Date:** September 2026  
 **Classification:** Internal / Portfolio Use Only  
 
